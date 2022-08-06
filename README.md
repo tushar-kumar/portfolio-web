@@ -1,11 +1,8 @@
-# Portfólio João Túlio
+# Portfolio Me Neo
 
-Este projeto foi criado com CRA (Create React App).
+This is a test portfolio website templete for further use and fun...
 
-Este é meu site para me apresentar, aqui coloco minhas habilidades, portfólio, e formas de contato.
-
-
-## Tecnologias usadas:
+## Tecnologies usadas:
 - React
 - Typescript
 - Styled Components
