@@ -35,4 +35,28 @@ export const Container = styled.footer`
     }
   }
 
+
+
+  @keyframes spinning {
+    0%{
+      transform: rotate(0);
+    }
+    100%{
+      transform: rotate(360deg);
+    }
+  }
+
+  @media(max-width: 800px){
+    padding: 4rem 10rem;
+    flex-direction: column;
+    gap: 2rem;
+    text-align: center;
+  }
+  @media(max-width: 600px){
+    padding: 4rem 1rem;
+    p{
+      font-size: 1.2rem;
+    }
+  }
+
 `
