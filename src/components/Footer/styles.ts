@@ -1,5 +1,6 @@
 import styled from "styled-components";
 
+
 export const Container = styled.footer`
   background-color: #2b2b2b;
   padding: 3rem 15rem;
@@ -36,7 +37,6 @@ export const Container = styled.footer`
   }
 
 
-
   @keyframes spinning {
     0%{
       transform: rotate(0);
@@ -58,5 +58,4 @@ export const Container = styled.footer`
       font-size: 1.2rem;
     }
   }
-
 `
