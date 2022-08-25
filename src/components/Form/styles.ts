@@ -55,7 +55,6 @@ export const Container = styled.div`
   }
 `
 
-
 export const ContainerSucces = styled.div`
   margin-top: 10rem;
   text-align: center;
