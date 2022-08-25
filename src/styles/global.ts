@@ -1,7 +1,6 @@
 import { createGlobalStyle } from "styled-components";
 
 
-
 export const GlobalStyle = createGlobalStyle`
 
   :root{
@@ -60,7 +59,6 @@ export const GlobalStyle = createGlobalStyle`
   }
 
 
-
   ul, li {
     text-decoration: none;
     list-style: none;
@@ -111,7 +109,6 @@ export const GlobalStyle = createGlobalStyle`
     filter: brightness(0.8);
     cursor: not-allowed;
   }
-
 
   .logo{
     font-size: 3rem;
