@@ -4,7 +4,7 @@
   "private": true,
   "engines": {
     "node": "14.15.1",
-    "npm": "8.19.1",
+    
   },
   "dependencies": {
     "@formspree/react": "^2.2.4",
